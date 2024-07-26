@@ -1,0 +1,9 @@
+{
+    "endpoint" : "http://127.0.0.1:5000/login",
+    "auth-type" : "status-code",
+    "auth-data" : 200,
+    "request-data" : {
+        "username" : "username",
+        "password" : "password"
+    }
+}
